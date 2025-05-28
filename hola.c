@@ -1,5 +1,5 @@
-#include <stdio.c>
+#include<stdio.h>
 
 int main(){
-	pritnf("Hola mundo");
+	pritnf("Hola mundo a todos en este grupo");
 }
